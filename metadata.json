@@ -1,0 +1,6 @@
+{
+  "name": "GlobeTrotter Yaounde",
+  "description": "Comprehensive travel assistant and interactive guide for 50+ historical sites, nature spots, cultural hubs, and cuisine in Yaoundé, Cameroon with offline map capabilities, itinerary planner, AI guide, and traveler safety tools.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
